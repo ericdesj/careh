@@ -1,6 +1,5 @@
-
-# Created by https://www.gitignore.io/api/macos
-# Edit at https://www.gitignore.io/?templates=macos
+node_modules
+.next
 
 ### macOS ###
 # General
@@ -29,5 +28,3 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-
-# End of https://www.gitignore.io/api/macos
